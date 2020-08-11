@@ -80,5 +80,11 @@ func Test_NewCmdRefresh(t *testing.T) {
 }
 
 func Test_refreshRun(t *testing.T) {
-	// TODO
+	// TODO GITHUB_TOKEN set
+	// TODO not a tty
+	// TODO not logged into any hosts
+	// TODO no hostname, one host configured
+	// TODO no hostname, multiple hosts configured
+	// TODO hostname provided but not configured
+	// TODO hostname provided and is configured
 }
